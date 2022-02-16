@@ -9,7 +9,7 @@
       <p><b>邮箱：HanChen0217@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      * 照片稍后会放到网站上
     </td>
   </tr>
 </table>
